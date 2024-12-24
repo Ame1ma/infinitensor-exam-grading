@@ -1,0 +1,3 @@
+[submodule "rustlings"]
+	path = rustlings
+	url = https://github.com/Ame1ma/infinitensor-rustlings
